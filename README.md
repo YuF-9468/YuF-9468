@@ -2,12 +2,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuF-9468&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YuF-9468&theme=tokyonight)
