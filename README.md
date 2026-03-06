@@ -1,5 +1,5 @@
 ![YuFeng](https://corgiking.top:8089/r/2026/03/06/69aa99374f0ed.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YuF-9468&theme=tokyonight)](https://git.io/streak-stats))
+![GitHub Streak](https://streak-stats.demolab.com?user=YuF-9468&theme=vue&hide_border=true&short_numbers=true&mode=weekly)
 
-![Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=YuF-9468&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=YuF-9468&theme=vue&bg_color=0&point=40E0D0))
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuF-9468&theme=vue&bg_color=0&point=C0C0C0)
