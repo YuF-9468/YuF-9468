@@ -1,4 +1,4 @@
-![YuFeng](https://corgiking.top:8089/r/2026/03/06/69aa99374f0ed.gif)
+![signature](https://readme-signature-generate.vercel.app/api?signature=YuFeng&font=refined&color=black&speed=0.5&bg=%23ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YuF-9468&theme=vue&hide_border=true&short_numbers=true&mode=daily)
 
